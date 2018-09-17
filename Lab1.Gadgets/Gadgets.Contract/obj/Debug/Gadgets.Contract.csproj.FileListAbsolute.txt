@@ -1,0 +1,5 @@
+C:\univer\SoapService\Lab1.Gadgets\Gadgets.Contract\bin\Debug\Gadgets.Contract.dll
+C:\univer\SoapService\Lab1.Gadgets\Gadgets.Contract\bin\Debug\Gadgets.Contract.pdb
+C:\univer\SoapService\Lab1.Gadgets\Gadgets.Contract\obj\Debug\Gadgets.Contract.csprojResolveAssemblyReference.cache
+C:\univer\SoapService\Lab1.Gadgets\Gadgets.Contract\obj\Debug\Gadgets.Contract.dll
+C:\univer\SoapService\Lab1.Gadgets\Gadgets.Contract\obj\Debug\Gadgets.Contract.pdb

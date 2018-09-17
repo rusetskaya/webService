@@ -1,0 +1,5 @@
+C:\univer\SoapService\Lab1.Gadgets\Gadgets.ServiceProxy\bin\Debug\Gadgets.ServiceProxy.dll
+C:\univer\SoapService\Lab1.Gadgets\Gadgets.ServiceProxy\bin\Debug\Gadgets.ServiceProxy.pdb
+C:\univer\SoapService\Lab1.Gadgets\Gadgets.ServiceProxy\obj\Debug\Gadgets.ServiceProxy.csprojResolveAssemblyReference.cache
+C:\univer\SoapService\Lab1.Gadgets\Gadgets.ServiceProxy\obj\Debug\Gadgets.ServiceProxy.dll
+C:\univer\SoapService\Lab1.Gadgets\Gadgets.ServiceProxy\obj\Debug\Gadgets.ServiceProxy.pdb

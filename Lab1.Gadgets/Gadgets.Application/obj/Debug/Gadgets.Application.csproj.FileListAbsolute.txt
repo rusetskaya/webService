@@ -1,0 +1,6 @@
+C:\univer\SoapService\Lab1.Gadgets\Gadgets.Application\bin\Debug\Gadgets.Application.exe.config
+C:\univer\SoapService\Lab1.Gadgets\Gadgets.Application\obj\Debug\Gadgets.Application.csprojResolveAssemblyReference.cache
+C:\univer\SoapService\Lab1.Gadgets\Gadgets.Application\obj\Debug\MainWindow.g.cs
+C:\univer\SoapService\Lab1.Gadgets\Gadgets.Application\obj\Debug\App.g.cs
+C:\univer\SoapService\Lab1.Gadgets\Gadgets.Application\obj\Debug\Gadgets.Application_MarkupCompile.cache
+C:\univer\SoapService\Lab1.Gadgets\Gadgets.Application\obj\Debug\Gadgets.Application_MarkupCompile.lref

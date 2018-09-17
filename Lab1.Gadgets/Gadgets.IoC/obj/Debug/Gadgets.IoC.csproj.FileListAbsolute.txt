@@ -1,0 +1,5 @@
+C:\univer\SoapService\Lab1.Gadgets\Gadgets.IoC\bin\Debug\Gadgets.IoC.dll
+C:\univer\SoapService\Lab1.Gadgets\Gadgets.IoC\bin\Debug\Gadgets.IoC.pdb
+C:\univer\SoapService\Lab1.Gadgets\Gadgets.IoC\obj\Debug\Gadgets.IoC.csprojResolveAssemblyReference.cache
+C:\univer\SoapService\Lab1.Gadgets\Gadgets.IoC\obj\Debug\Gadgets.IoC.dll
+C:\univer\SoapService\Lab1.Gadgets\Gadgets.IoC\obj\Debug\Gadgets.IoC.pdb

@@ -1,0 +1,5 @@
+C:\univer\SoapService\Lab1.Gadgets\Gadgets.BLL\bin\Debug\Gadgets.BLL.dll
+C:\univer\SoapService\Lab1.Gadgets\Gadgets.BLL\bin\Debug\Gadgets.BLL.pdb
+C:\univer\SoapService\Lab1.Gadgets\Gadgets.BLL\obj\Debug\Gadgets.BLL.csprojResolveAssemblyReference.cache
+C:\univer\SoapService\Lab1.Gadgets\Gadgets.BLL\obj\Debug\Gadgets.BLL.dll
+C:\univer\SoapService\Lab1.Gadgets\Gadgets.BLL\obj\Debug\Gadgets.BLL.pdb

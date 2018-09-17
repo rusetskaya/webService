@@ -1,0 +1,5 @@
+C:\univer\SoapService\Lab1.Gadgets\Gadgets.DAL\bin\Debug\Gadgets.DAL.dll
+C:\univer\SoapService\Lab1.Gadgets\Gadgets.DAL\bin\Debug\Gadgets.DAL.pdb
+C:\univer\SoapService\Lab1.Gadgets\Gadgets.DAL\obj\Debug\Gadgets.DAL.csprojResolveAssemblyReference.cache
+C:\univer\SoapService\Lab1.Gadgets\Gadgets.DAL\obj\Debug\Gadgets.DAL.dll
+C:\univer\SoapService\Lab1.Gadgets\Gadgets.DAL\obj\Debug\Gadgets.DAL.pdb
