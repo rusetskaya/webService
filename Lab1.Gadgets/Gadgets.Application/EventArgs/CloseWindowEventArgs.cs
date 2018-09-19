@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Gadgets.Models
+namespace Gadgets.Application.EventArgs
 {
-    public class Class1
+    class CloseWindowEventArgs
     {
     }
 }

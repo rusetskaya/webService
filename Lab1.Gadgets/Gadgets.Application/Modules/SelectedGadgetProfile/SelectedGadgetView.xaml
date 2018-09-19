@@ -1,0 +1,56 @@
+﻿<UserControl x:Class="Gadgets.Application.Modules.SelectedGadgetProfile.SelectedGadgetView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <UserControl.Resources>
+        <Thickness x:Key="InfoMargin">0,10,0,0</Thickness>
+        <BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter" />
+    </UserControl.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid>
+            <!--<Image
+                Width="100"
+                Height="100"
+                Source="{Binding ImageSource}" />-->
+            <Image
+                Width="24"
+                Height="24"
+                Margin="0,0,10,0"
+                HorizontalAlignment="Right"
+                VerticalAlignment="Bottom"
+                Source="../Assets/like.png"
+                Stretch="Uniform"
+                Visibility="{Binding IsFavorite, Converter={StaticResource BooleanToVisibilityConverter}}" />
+        </Grid>
+
+        <StackPanel Grid.Column="1" Margin="10,0,0,0">
+            <TextBlock Text="Name" />
+            <TextBlock FontWeight="Bold" Text="{Binding Name}" />
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Grid.ColumnSpan="2">
+        <!--<TextBlock Margin="{StaticResource InfoMargin}" Text="Type" />
+            <TextBlock FontWeight="Bold" Text="{Binding Type}" />-->
+
+            <TextBlock Margin="{StaticResource InfoMargin}" Text="Brand" />
+            <TextBlock FontWeight="Bold" Text="{Binding Brand}" />
+
+            <TextBlock Margin="{StaticResource InfoMargin}" Text="Is favorite" />
+            <TextBlock FontWeight="Bold" Text="{Binding IsFavorite}" />
+
+            <!--<TextBlock Margin="{StaticResource InfoMargin}" Text="Date of release" />
+            <TextBlock FontWeight="Bold" Text="{Binding ReleaseDate, StringFormat={}{0:yyyy/MM/dd}}" />-->
+        </StackPanel>
+    </Grid>
+</UserControl>

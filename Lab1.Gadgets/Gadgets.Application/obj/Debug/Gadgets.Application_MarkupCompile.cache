@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\univer\SoapService\Lab1.Gadgets\Gadgets.Application\obj\Debug\
+C:\univer\webServices\Lab1.Gadgets\Gadgets.Application\obj\Debug\
 Gadgets.Application
 none
 false
 DEBUG;TRACE
-C:\univer\SoapService\Lab1.Gadgets\Gadgets.Application\App.xaml
-11151548125
+C:\univer\webServices\Lab1.Gadgets\Gadgets.Application\App.xaml
+31699009524
 
-5-2017746502
-13738642453
-MainWindow.xaml;
+17-1374784425
+74-1522670656
+Modules\EditGadget\EditGadgetView.xaml;Modules\SelectedGadgetProfile\SelectedGadgetView.xaml;Views\MainWindow.xaml;
 
 True
 

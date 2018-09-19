@@ -13,14 +13,14 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Gadgets.Application
+namespace Gadgets.Application.Modules.SelectedGadgetProfile
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for SelectedGadgetView.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class SelectedGadgetView : UserControl
     {
-        public MainWindow()
+        public SelectedGadgetView()
         {
             InitializeComponent();
         }

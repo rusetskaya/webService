@@ -3,3 +3,8 @@ C:\univer\SoapService\Lab1.Gadgets\Gadgets.Interfaces\bin\Debug\Gadgets.Interfac
 C:\univer\SoapService\Lab1.Gadgets\Gadgets.Interfaces\obj\Debug\Gadgets.Interfaces.csprojResolveAssemblyReference.cache
 C:\univer\SoapService\Lab1.Gadgets\Gadgets.Interfaces\obj\Debug\Gadgets.Interfaces.dll
 C:\univer\SoapService\Lab1.Gadgets\Gadgets.Interfaces\obj\Debug\Gadgets.Interfaces.pdb
+C:\univer\webServices\Lab1.Gadgets\Gadgets.Interfaces\bin\Debug\Gadgets.Interfaces.dll
+C:\univer\webServices\Lab1.Gadgets\Gadgets.Interfaces\bin\Debug\Gadgets.Interfaces.pdb
+C:\univer\webServices\Lab1.Gadgets\Gadgets.Interfaces\obj\Debug\Gadgets.Interfaces.csprojResolveAssemblyReference.cache
+C:\univer\webServices\Lab1.Gadgets\Gadgets.Interfaces\obj\Debug\Gadgets.Interfaces.dll
+C:\univer\webServices\Lab1.Gadgets\Gadgets.Interfaces\obj\Debug\Gadgets.Interfaces.pdb

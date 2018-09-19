@@ -76,7 +76,7 @@ namespace Gadgets.WcfService
 
         public Response<bool> DeleteGadget(int id)
         {
-            Response<bool> res = new Response<bool>("DeleteItem");
+            Response<bool> res = new Response<bool>("DeleteGadget");
 
             try
             {
@@ -96,7 +96,7 @@ namespace Gadgets.WcfService
 
         public Response<long> UpdateGadget(Gadget gadget)
         {
-            Response<long> res = new Response<long>("UpdateItem");
+            Response<long> res = new Response<long>("UpdateGadgets");
 
             try
             {
